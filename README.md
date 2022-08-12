@@ -1,4 +1,4 @@
-##softpyrmid tasks
+##softpers tasks
 
 # Installation
 
