@@ -1,11 +1,4 @@
-#Hurak taskes
-
-Task#1 Show boxes 
-every time double the boxes when scheculder runs every 1 minute and when boxes count reach 16 stop the scheduler 
-
-Task # 2
-will do this on late night......
-
+##softpers tasks
 
 # Installation
 
